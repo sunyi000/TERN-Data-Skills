@@ -3,7 +3,7 @@ This repository contains materials, tutorials and resources for working with dat
 Please visit www.tern.org.au for more information.
 
 ## Acknowledgements
-TERN is funded through National Collaborative Research Infrastructure Strategy, an Australian Government Initiative.
+TERN is funded through National Collaborative Research Infrastructure Strategy (NCRIS), an Australian Government Initiative.
 
 ## Disclaimer
 All the materials available in this repository is provided on an "as is" and "as available" basis. 
